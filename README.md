@@ -8,7 +8,7 @@ Contact: sina.saadati.ac@gmail.com
 
 ## Contents
 - `poster/` – final poster (PDF)
-- `supplement/` – long figure captions, per-patient tables, definitions, software versions
+- `supplement/` – detailed figure captions, per-patient tables, definitions, software versions
 - `figures/` – panels A–K as PNG
 - `code/` – scripts used for each panel
 - `tables/` – small derived tables
