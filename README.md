@@ -1,5 +1,5 @@
 # CART-persistence-IOCGE2026
-Supplement, figures and code for the IOCGE 2026 poster: a multi-cohort single-cell analysis of CAR-T persistence and decline in relapsed B-ALL (hypothesis-generating; mechanistic results are in silico).
+Supplement and figures for the IOCGE 2026 poster: a multi-cohort single-cell analysis of CAR-T persistence and decline in relapsed B-ALL (hypothesis-generating; mechanistic results are in silico).
 # A Multi-Cohort Single-Cell Analysis of CAR-T Cell Persistence and Decline in Relapsed B-ALL
 
 Poster for the 3rd International Online Conference on Genes (IOCGE 2026), 2–4 December 2026, Sciforum-210300.
@@ -28,4 +28,4 @@ Contact: sina.saadati.ac@gmail.com
 R 4.5.2; Seurat 5.5.1; SeuratObject 5.4.0; scRepertoire 2.6.2; nichenetr 2.2.1.1; CellOracle 0.20.0.
 
 ## License
-Text and figures: CC BY 4.0. Code: MIT.
+Text and figures: CC BY 4.0. Tables: MIT (see LICENSE).
