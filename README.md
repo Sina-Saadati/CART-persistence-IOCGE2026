@@ -25,7 +25,7 @@ Contact: sina.saadati.ac@gmail.com
 - Receptor (CD40) support is weak; the NFKBIA/TNFAIP3 signal is not LTB-specific.
 
 ## Software
-R 4.5.2; Seurat 5.5.1; SeuratObject 5.4.0; scRepertoire 2.6.2; nichenetr 2.2.1.1.
+R 4.5.2; Seurat 5.5.1; SeuratObject 5.4.0; scRepertoire 2.6.2; nichenetr 2.2.1.1; CellOracle 0.20.0.
 
 ## License
 Text and figures: CC BY 4.0. Code: MIT.
